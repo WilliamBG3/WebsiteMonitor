@@ -1,5 +1,5 @@
 #!/bin/bash
-#title          :websitemonitor-cron.sh
+#title          :WebsiteMonitor.sh
 #description    :A script that will check if a website is online or not and 
 #                log the results to the specified file.
 #author         :William Gile
